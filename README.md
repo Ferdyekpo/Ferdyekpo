@@ -1,4 +1,4 @@
-# Hi, I'm Ferdinand Ekpo 👋
+# Hello, I'm Ferdinand Ekpo 👋
 
 AI & Data Scientist | Machine Learning Engineer | Data Analytics
 
