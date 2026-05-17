@@ -1,133 +1,143 @@
 # Hello, I'm Ferdinand Ekpo 👋
 
-AI & Data Scientist | Machine Learning Engineer | Data Analytics
+AI & Data Science Graduate | Data Analyst | Business Intelligence Enthusiast
 
-I design and deploy intelligent systems that transform raw data into strategic business value.
+I enjoy using data, analytics, and machine learning to solve real-world business problems and generate actionable insights.
 
 🎓 MSc Artificial Intelligence & Data Science – Keele University  
-📊 Background in Accounting + Analytics  
-🚀 Building production-ready AI systems end-to-end  
+📊 Background in Accounting, Analytics, and Business Intelligence  
+🚀 Building practical AI, analytics, and data visualisation projects  
 
 ---
 
 # 🔬 Core Skills
 
-**Programming**
-Python, SQL
+## Programming & Databases
+Python • SQL • PostgreSQL
 
-**Machine Learning & AI**
-Scikit-learn, TensorFlow, XGBoost, NLP, Computer Vision
+## Data Analytics & Visualisation
+Power BI • Pandas • NumPy • Matplotlib • Seaborn • Tableau • Excel
 
-**Data & Analytics**
-Pandas, NumPy, Power BI, Matplotlib, Seaborn, Tableau
+## Machine Learning & AI
+Scikit-learn • TensorFlow • CNNs • Transfer Learning • Computer Vision
 
-**Deployment & Engineering**
-FastAPI, Streamlit, Docker, PostgreSQL, Airflow
+## Data & Business Intelligence
+ETL • Data Cleaning • KPI Reporting • Dashboard Development • Customer Analytics
 
-**Cloud**
-Microsoft Azure, AWS
+## Tools
+Git • GitHub • Jupyter Notebook • VS Code • Google BigQuery
 
 ---
 
 # 🚀 Featured Projects
 
-## 1️⃣ End-to-End Customer Churn Prediction System
+## 1️⃣ Fruit Classification Using Deep Learning & Computer Vision
 
-Production-ready machine learning system predicting customer attrition with live deployment.
+Machine learning and deep learning project focused on fruit image classification using CNNs and transfer learning architectures.
 
-**Tech Stack**  
-Python • Scikit-learn • FastAPI • Docker • Streamlit • Cloud-ready
+### Tech Stack
+Python • TensorFlow • Keras • Scikit-learn • Computer Vision
 
-**Highlights**
-• Full data cleaning and feature engineering pipeline  
-• Model comparison (Logistic Regression, Random Forest, XGBoost)  
-• API endpoint for real-time predictions  
-• Interactive Streamlit web application  
-• Containerised with Docker for deployment  
-• Business insights identifying churn risk drivers  
+### Highlights
+- Built and compared multiple image classification models
+- Developed custom CNN architecture
+- Applied transfer learning using MobileNetV2 and MobileNetV3Small
+- Evaluated models using accuracy, precision, recall, and confusion matrices
+- Demonstrated practical computer vision workflows
 
----
-
-## 2️⃣ Global Layoffs Data Analysis (Business Case Study)
-
-Comprehensive analytics project exploring global workforce reductions.
-
-**Tech Stack**  
-Python • SQL • Pandas • Power BI • Data Visualisation
-
-**Highlights**
-• Large-scale data cleaning and transformation  
-• SQL-based data exploration  
-• Interactive Power BI dashboard  
-• Trend analysis across industries and countries  
-• Executive-level insight storytelling  
-
-Deliverables: Notebook • Dashboard • Analytical Report  
+🔗 Repository:
+https://github.com/Ferdyekpo/fruit-classification-project
 
 ---
 
-## 3️⃣ AI Resume Screening System (NLP Application)
+## 2️⃣ Customer Churn Analysis Dashboard
 
-Intelligent candidate ranking system using Natural Language Processing.
+Power BI dashboard project analysing customer retention trends and churn behaviour.
 
-**Tech Stack**  
-Python • Sentence Transformers • Scikit-learn • Streamlit
+### Tech Stack
+Power BI • Excel • Data Visualisation • Business Intelligence
 
-**Highlights**
-• Resume-job description similarity scoring  
-• Text embeddings and semantic matching  
-• Automated candidate ranking  
-• Interactive web app interface  
-• Real-world HR automation use case  
+### Highlights
+- Analysed customer churn patterns and retention metrics
+- Built interactive KPI dashboards
+- Identified high-risk customer segments
+- Delivered business-focused insight reporting
 
----
-
-## 4️⃣ Automated Data Engineering Pipeline
-
-End-to-end data pipeline from ingestion to analytics dashboard.
-
-**Workflow**  
-API → Data Cleaning → PostgreSQL → Dashboard
-
-**Tech Stack**  
-Python • Airflow • PostgreSQL • Power BI
-
-**Highlights**
-• Automated ETL workflow  
-• Scheduled data processing  
-• Database schema design  
-• Data validation and quality checks  
-• Business intelligence integration  
+🔗 Repository:
+https://github.com/Ferdyekpo/customer-churn-analysis
 
 ---
 
-## 5️⃣ Retail Product Detection System (Computer Vision)
+## 3️⃣ Financial Performance Analysis Dashboard
 
-Deep learning computer vision system detecting retail shelf products.
+Interactive Profit & Loss dashboard developed in Power BI for financial analytics and KPI monitoring.
 
-**Tech Stack**  
-Python • YOLO • OpenCV • TensorFlow/PyTorch
+### Tech Stack
+Power BI • Excel • Financial Analytics • Data Visualisation
 
-**Highlights**
-• Object detection model training  
-• Image preprocessing pipeline  
-• Bounding box prediction  
-• Performance evaluation (mAP)  
-• Retail AI use case simulation  
+### Highlights
+- Analysed revenue, expenses, and profitability trends
+- Built executive-level financial dashboards
+- Developed KPI tracking and trend analysis visualisations
+- Supported strategic financial reporting
+
+🔗 Repository:
+https://github.com/Ferdyekpo/financial-performance-analysis
+
+---
+
+## 4️⃣ RFM Customer Segmentation Analysis Using BigQuery
+
+SQL-based customer segmentation analysis using the RFM framework and Google BigQuery ETL workflows.
+
+### Tech Stack
+Google BigQuery • SQL • Excel • Customer Analytics
+
+### Highlights
+- Performed ETL and data transformation using SQL
+- Calculated Recency, Frequency, and Monetary metrics
+- Identified high-value and at-risk customer groups
+- Supported customer retention and marketing insights
+
+🔗 Repository:
+https://github.com/Ferdyekpo/rfm-customer-segmentation-analysis
+
+---
+
+## 5️⃣ Global Layoffs Data Analysis
+
+Business analytics project exploring global workforce reduction trends using SQL and data visualisation.
+
+### Tech Stack
+Python • SQL • Power BI • Pandas
+
+### Highlights
+- Performed large-scale data cleaning and transformation
+- Conducted exploratory SQL analysis
+- Built interactive dashboards and visualisations
+- Presented business insights through storytelling
+
+🔗 Repository:
+https://github.com/Ferdyekpo/global-layoffs-analysis
 
 ---
 
 # 📚 Current Focus
 
-• Building scalable AI systems  
-• MLOps & model deployment  
-• Cloud-based AI solutions (Azure)  
-• Advanced machine learning optimisation  
+- Building practical analytics and AI systems
+- Improving SQL and machine learning workflows
+- Expanding cloud and data engineering skills
+- Developing business-focused data solutions
 
 ---
 
 # 🌍 Let's Connect
 
-LinkedIn  - https://www.linkedin.com/in/ferdinandekpo/
-Portfolio Website  - https://www.ferdinandekpo.com/
-Email - sirferdyekpo@gmail.com
+LinkedIn  
+https://www.linkedin.com/in/ferdinandekpo/
+
+GitHub  
+https://github.com/Ferdyekpo
+
+Email  
+sirferdyekpo@gmail.com
